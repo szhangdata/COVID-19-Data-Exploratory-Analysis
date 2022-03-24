@@ -6,7 +6,7 @@ Summarized cases in different cotinent/ country.
 
 Ploted top 10 countries (Confirmed Cases ，Deaths and recovered cases).
 
-Performaed correlation analysis between confirmed death and recovered cases.
+Performaed correlation analysis between confirmed death, death, recovered cases and active cases.
 
 Visualized distribution on map (Confirmed Cases ，Deaths and recovered cases).
 
